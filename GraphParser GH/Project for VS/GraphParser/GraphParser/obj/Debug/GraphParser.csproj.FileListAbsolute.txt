@@ -1,0 +1,8 @@
+C:\Users\Александр\Programms\GraphParser\GraphParser\bin\Debug\GraphParser.exe.config
+C:\Users\Александр\Programms\GraphParser\GraphParser\bin\Debug\GraphParser.exe
+C:\Users\Александр\Programms\GraphParser\GraphParser\bin\Debug\GraphParser.pdb
+C:\Users\Александр\Programms\GraphParser\GraphParser\bin\Debug\tessnet2_64.dll
+C:\Users\Александр\Programms\GraphParser\GraphParser\bin\Debug\tessnet2_64.pdb
+C:\Users\Александр\Programms\GraphParser\GraphParser\obj\Debug\GraphParser.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Programms\GraphParser\GraphParser\obj\Debug\GraphParser.exe
+C:\Users\Александр\Programms\GraphParser\GraphParser\obj\Debug\GraphParser.pdb
